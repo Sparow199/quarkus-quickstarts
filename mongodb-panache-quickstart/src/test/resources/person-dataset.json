@@ -1,0 +1,32 @@
+[
+  {
+    "_id": {
+      "$oid": "5889273c093d1c3e614bf2f9"
+    },
+    "name": "MONCEF",
+    "birth": {
+      "$date": "1993-01-18T16:00:00Z"
+    },
+    "status": "LIVING"
+  },
+  {
+    "_id": {
+      "$oid": "5889273c093d1c3e614bf2fa"
+    },
+    "name": "LOÏC",
+    "birth": {
+      "$date": "1988-06-19T12:00:00Z"
+    },
+    "status": "LIVING"
+  },
+  {
+    "_id": {
+      "$oid": "5889273c093d1c3e614bf2fb"
+    },
+    "name": "FOO",
+    "birth": {
+      "$date": "2019-05-18T12:00:00Z"
+    },
+    "status": "DECEASED"
+  }
+]
